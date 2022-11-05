@@ -1,0 +1,16 @@
+{
+    "name": "user/ipt10-website",
+    "autoload": {
+        "psr-4": {
+            "User\\Ipt10Website\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcus Calaguas"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
